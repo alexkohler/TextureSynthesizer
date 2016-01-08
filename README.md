@@ -1,5 +1,5 @@
 #Texture Synthesizer
-A pixel based texture synthesis algorithm, based off of psuedocode from Efros and Leung's 1999 paper.
+A pixel based texture synthesis algorithm, based off of psuedocode from Efros and Leung's 1999 paper. Given an input texture, will used Efros/Leung's patch based algorithm to synthesize a larger texture. For higher quality images, use a higher window size (I recommend at least 7). Images can grow as large as you want. (As long as you're patient enough to wait for it to render ;) )
 
 #USAGE (Octave/matlab) -
 This was tested in Octave, however, instructions should be similar if not identical for matlab.
