@@ -1,5 +1,4 @@
 #Texture Synthesizer
-	##Alex Kohler
 A pixel based texture synthesis algorithm, based off of psuedocode from Efros and Leung's 1999 paper.
 
 #USAGE (Octave/matlab) -
@@ -10,6 +9,9 @@ This was tested in Octave, however, instructions should be similar if not identi
  For more information on parameters/individual functions, see function documentation.
 
 Output filename is in format synthesized_<FILENAME>_winsize_<WINSIZE>_<OUTPUTSIZE>x<OUTPUTSIZE>. Currently input image must be in JPG or jpg format. I've included a couple 20x20 output images with varying window sizes an example in the synthesizedTextures directory. 
+
+#Demo
+![alt tag](https://raw.github.com/aok5326/TextureSynthesizer/master/sampleTextures/apples.jpg)	
 
 #References:
 	http://graphics.cs.cmu.edu/people/efros/research/NPS/alg.html
