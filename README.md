@@ -11,7 +11,7 @@ This was tested in Octave, however, instructions should be similar if not identi
 Output filename is in format synthesized_<FILENAME>_winsize_<WINSIZE>_<OUTPUTSIZE>x<OUTPUTSIZE>. Currently input image must be in JPG or jpg format. I've included a couple 20x20 output images with varying window sizes an example in the synthesizedTextures directory. 
 
 #Demo
-![alt tag](https://raw.github.com/aok5326/TextureSynthesizer/master/sampleTextures/apples.jpg)	
+![alt tag](https://raw.github.com/aok5326/TextureSynthesizer/master/sampleTextures/wood.JPG "Input image") ---->	![alt tag](https://github.com/aok5326/TextureSynthesizer/blob/master/synthesizedTextures/synth_wood_winsize_9_20x20.jpg "Input image")
 
 #References:
 	http://graphics.cs.cmu.edu/people/efros/research/NPS/alg.html
