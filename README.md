@@ -3,12 +3,12 @@ A pixel based texture synthesis algorithm, based off of psuedocode from Efros an
 
 # USAGE (Octave/matlab) -
 This was tested in Octave, however, instructions should be similar if not identical for matlab.
- Load required packages - pkg load image
- Source file        	- source growimage.m
- Call growimage         - e.g. growimage("sampleTextures/fire.JPG",5,20)
- For more information on parameters/individual functions, see function documentation.
+ -Load required packages - `pkg load image`
+ -Source file        	 - `source growimage.m`
+ -Call growimage         - `growimage("sampleTextures/fire.JPG",5,20)`
+ -For more information on parameters/individual functions, see function documentation.
 
-Output filename is in format synthesized_<FILENAME>_winsize_<WINSIZE>_<OUTPUTSIZE>x<OUTPUTSIZE>. Currently input image must be in JPG or jpg format. I've included a couple 20x20 output images with varying window sizes an example in the synthesizedTextures directory. 
+Output filename is in format `synthesized_<FILENAME>_winsize_<WINSIZE>_<OUTPUTSIZE>x<OUTPUTSIZE>`. Currently input image must be in jpg format. I've included a couple 20x20 output images with varying window sizes an example in the synthesizedTextures directory. 
 
 # Demo
 ![alt tag](https://raw.github.com/aok5326/TextureSynthesizer/master/sampleTextures/wood.JPG "Input image") ---->	![alt tag](https://github.com/aok5326/TextureSynthesizer/blob/master/synthesizedTextures/synth_wood_winsize_9_20x20.jpg "Output image")
