@@ -19,8 +19,8 @@ Output filename is in format `synthesized_<FILENAME>_winsize_<WINSIZE>_<OUTPUTSI
 
 
 # References:
-	* http://graphics.cs.cmu.edu/people/efros/research/NPS/alg.html
-	* http://luthuli.cs.uiuc.edu/~daf/courses/CS-498-DAF-PS/Texture_498.pdf 
-	* http://eric-yuan.me/texture-synthesis/
-	* http://www.cs.umd.edu/~djacobs/CMSC426/PS5.doc
-	* http://www.ics.uci.edu/~dramanan/teaching/cs116_fall08/hw/Project/Texture/
+* http://graphics.cs.cmu.edu/people/efros/research/NPS/alg.html
+* http://luthuli.cs.uiuc.edu/~daf/courses/CS-498-DAF-PS/Texture_498.pdf 
+* http://eric-yuan.me/texture-synthesis/
+* http://www.cs.umd.edu/~djacobs/CMSC426/PS5.doc
+* http://www.ics.uci.edu/~dramanan/teaching/cs116_fall08/hw/Project/Texture/
